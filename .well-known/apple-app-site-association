@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "2WNY55223D.br.ind.tecnet.UniversalLinks",
+				"paths": ["*"]
+			}
+		]
+	}
+}
