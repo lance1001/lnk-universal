@@ -2,6 +2,6 @@
 	"name": "Single Board Computers",
 	"description": "A barebones ingle Board Computers app",
 	"repository": "https://git.heroku.com/rw-universal-links.git",
-	"logo": "https://salty-scrubland-81169.herokuapp.com/logo.png",
+	"logo": "https://salty-scrubland-81169.herokuapp.com/Arduino-Logo.png",
 	"keywords": ["SBC", "universal links"]
 }
