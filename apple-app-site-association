@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "2WNY55223D.br.ind.tecnet.RedeTVPlus",
-				"paths": ["*", "NO /teste/*"]
+				"paths": ["*", "NOT /teste/*"]
 			},
 						{
 				"appID": "2WNY55223D.br.ind.tecnet.UniversalLinks",
